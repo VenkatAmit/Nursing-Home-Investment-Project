@@ -11,5 +11,3 @@ venv/
 myenv/
 data/*.csv
 data/processed_data.csv
-data/*.csv
-data/processed_data.csv
